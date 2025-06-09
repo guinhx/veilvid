@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /?q=*
+Allow: /sitemap.xml
+
+# Sitemap
+Sitemap: https://veilvid.vercel.app/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
